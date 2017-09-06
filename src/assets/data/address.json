@@ -1,0 +1,46 @@
+{
+  "status":0,
+  "message":"",
+  "result":[
+    {
+      "addressId":"100001",
+      "userName":"motiona",
+      "streetName":"北京市朝阳区霄云路50号 距离市中心约7378米",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":true
+    },
+    {
+      "addressId":"100002",
+      "userName":"Memory",
+      "streetName":"南昌市湾里区江西中医学院学生宿舍9栋103号",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100003",
+      "userName":"smile",
+      "streetName":"广西玉林市陆川县沙坡镇街道15号",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100004",
+      "userName":"Anthoy",
+      "streetName":"北京市朝阳区朝阳公园",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    },
+    {
+      "addressId":"100005",
+      "userName":"Etris",
+      "streetName":"贵州省黎平县",
+      "postCode":"100001",
+      "tel":"12345678901",
+      "isDefault":false
+    }
+  ]
+}
