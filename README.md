@@ -1,5 +1,5 @@
 # 说明
-这个项目是我学习了vue之后重构了一下adidas的官网        
+这个项目是我学习了vue之后重构了一下adidas的官网（只写了一部分）      
     1.点击图标——返回主页（右下角有微博和微信跳转）      
     2.点击男子——商品页面（可以添加商品到购物车）     
     3.点击购物车图标——进入购物车页面     
@@ -10,11 +10,12 @@ Vue-resource引入本地的模拟json数据（商品、地址）
 Vuex管理商品列表状态和做本地缓存     
 页面布局使用bootstrap的栅格布局，图标使用雪碧图      
       
-![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/1.png)
-![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/2.png)
-![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/3.png)
-![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/4.png)
-![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/5.png)
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/1.jpg)    
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/2.jpg)    
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/3.png)    
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/4.png)     
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/5.png)     
+![Image text](https://github.com/Summer-xzy/Vue-shopping/blob/master/img-show/6.png)    
 
 ##安装   
 // 安装前请先确保已安装node和npm   
